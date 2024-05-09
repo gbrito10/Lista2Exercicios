@@ -1,0 +1,7 @@
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.AssemblyReference.cache
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\gdebr\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
